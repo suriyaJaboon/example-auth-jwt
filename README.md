@@ -6,7 +6,7 @@
 - Database mongodeb 
 
 **source :**
-- front-end **Nnode/nndoe-angular/**
+- front-end **Nnode/angular/**
 - back-end **Nnode/**
 - build angular4 **public/**
 - configuration **config**
@@ -34,5 +34,5 @@ http://localhost:3000
 **Develop**
 ```
 Back-end Nnode/
-Front-end Nnode/nnode-angular/
+Front-end Nnode/angular/
 ```
